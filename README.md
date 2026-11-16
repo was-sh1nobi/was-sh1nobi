@@ -15,7 +15,7 @@
 <a href="https://github.com/was-sh1nobi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://t.me/faceless_amir">
+<a href="https://t.me/i22LTALA">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/amirmahdi-aghajani">
