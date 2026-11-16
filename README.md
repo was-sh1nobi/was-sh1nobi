@@ -320,7 +320,7 @@ It's to understand **how the pieces fit together**.
 
 <a href="https://github.com/was-sh1nobi"> <img src="https://img.shields.io/badge/GitHub-was--sh1nobi-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<a href="https://t.me/faceless_amir"> <img src="https://img.shields.io/badge/Telegram-@faceless__amir-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+<a href="https://t.me/i22LTALA"> <img src="https://img.shields.io/badge/Telegram-@i22LTALA-229ED9?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 
 <a href="https://www.linkedin.com/in/amirmahdi-aghajani"> <img src="https://img.shields.io/badge/LinkedIn-Amir%20Aghajani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
