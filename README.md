@@ -1,96 +1,70 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="./assets/desk-scene.svg" width="100%" alt="tired dev, sleepy cat, old CRT" />
-</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm AMIRMAHDI</h1>
 
-<h1 align="center">AMIRMAHDI</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+fast+%26+secure+backends+%F0%9F%A6%80;Rust+%7C+TypeScript+%7C+PostgreSQL+%7C+Linux;Performance.+Security.+Scale.+%F0%9F%94%A5;Let's+build+something+insane+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freelance-Available-FFFFFF?style=for-the-badge&labelColor=7A1212" />
-</p>
-
----
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+- 💡 Software Engineer focused on backend and full-stack development, with hands-on experience building web applications, APIs, real-time systems, and production infrastructure. Strong in Rust, TypeScript, PostgreSQL, and Linux, with particular interest in performance, security, networking, and scalable system architecture.
 
-> 💡 Software Engineer focused on **backend & full-stack** development, building web apps, APIs, real-time systems and production infrastructure.
-> Strong in **Rust**, **TypeScript**, **PostgreSQL** and **Linux** — with a deep interest in **performance**, **security**, **networking** and **scalable architecture**.
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://img.shields.io/badge/-Backend-1A1A1A?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Real--Time-1A1A1A?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Auth%20%26%20Security-1A1A1A?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Networking-1A1A1A?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Systems-1A1A1A?style=flat-square" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,py,cs&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,tailwind&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,sqlite&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,figma,vite&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=was-sh1nobi&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=B02A2A&text_color=C9C9C9&ring_color=B02A2A" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=was-sh1nobi&hide_border=true&background=0D0D0D&ring=B02A2A&fire=B02A2A&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=C9C9C9&dates=888888" />
+  <img src="https://www.gitskins.com/api/section/stats?username=was-sh1nobi&theme=github-dark&mode=dark" alt="was-sh1nobi's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=was-sh1nobi&theme=nightowl&hide_border=true&cache_seconds=86400" alt="was-sh1nobi's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=was-sh1nobi&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9C9C9" />
+  <img src="https://www.gitskins.com/api/section/stack?username=was-sh1nobi&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=was-sh1nobi&bg_color=0D0D0D&color=FFFFFF&line=B02A2A&point=FFFFFF&area=true&area_color=B02A2A&hide_border=true" width="95%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=was-sh1nobi&theme=github-dark&mode=dark" alt="AMIRMAHDI's GitHub Trophies" />
 </p>
-
----
-
-## 💼 Experience
-
-### Freelance Software Developer · 2024 – Present
-
-- 🚀 Build full-stack apps & backend services with **Rust, Node.js, TypeScript, React, Astro, PostgreSQL**
-- 🔐 Design secure auth: **JWT, HttpOnly cookies, CSRF protection, token rotation, DB-backed sessions**
-- ⚡ Ship **REST & real-time APIs** (WebSockets, low-level networking) with a focus on reliability & performance
-
----
-
-## 🔥 Projects
-
-| Project | Description |
-|---|---|
-| 🛒 **Bazzar** | Cross-server economy network — Minecraft marketplace connecting independent servers through one shared economy |
-| 🦀 **Rust Backend Systems** | High-performance backend services built in Rust |
-| 🎨 **EyesOn Studio** | Creative agency website |
-
----
-
-## 🔗 Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/amirmahdi-aghajani"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/was-sh1nobi"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" /></a>
-  <a href="https://t.me/i_sh1nobi"><img src="https://img.shields.io/badge/Telegram-1A1A1A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:was-sh1nobi@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=was-sh1nobi&theme=github-dark&mode=dark" alt="was-sh1nobi's Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A1212,30:1A1A1A,100:000000&height=120&section=footer" width="100%" alt="footer" />
-</p>
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/amirmahdi-aghajani" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=was-sh1nobi&theme=github-dark&mode=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=was-sh1nobi&theme=github-dark&mode=dark" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=was-sh1nobi&theme=github-dark&mode=dark" />
+</picture>
+
+<div align="center">
+  <!---->
+</div>
+
+<p align="center"><sub>AMIRMAHDI · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+## Experience
+
+**Freelance Software Developer** · 2024 – Present
+- Develop full-stack web applications and backend services using Rust, Node.js, TypeScript, React, Astro, and PostgreSQL.
+- Design secure authentication systems using JWT, HttpOnly cookies, CSRF protection, token rotation, and database-backed sessions.
+- Build REST and real-time APIs using WebSockets and low-level networking, with a focus on reliability and performance.
+
+**Projects**
+
+- **Bazzar — Cross-Server Economy Network** — Minecraft marketplace and economy platform connecting independent servers through a shared economy.
+- **Rust Backend Systems**
+- **EyesOn Studio — Creative Agency Website**
