@@ -7,9 +7,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=was-sh1nobi&theme=github-dark&mode=dark" alt="was-sh1nobi's GitHub Stats" width="49%" />
+  
   <img src="https://streak-stats.demolab.com/?user=was-sh1nobi&theme=nightowl&hide_border=true&cache_seconds=86400" alt="was-sh1nobi's GitHub Streak" width="49%" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=was-sh1nobi&theme=github-dark&mode=dark" alt="was-sh1nobi's GitHub Stats" width="49%" />
 </p>
+
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=was-sh1nobi&theme=github-dark&mode=dark" alt="Top Languages" />
